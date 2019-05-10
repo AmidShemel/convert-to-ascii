@@ -13,6 +13,7 @@ public class Main {
         URI uri = new URI(textToConvert);
 
         System.out.println(uri.toASCIIString());
+        System.out.println(uri);
 
     }
 }
